@@ -1,0 +1,583 @@
+<!DOCTYPE html>
+<html class="w_1296">
+
+<head>
+    <title>äº¬ä¸å°é­æ¹</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="renderer" content="webkit">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+    <link rel="shortcut icon" href="//m.360buyimg.com/babel/jfs/t8461/240/2334879892/1289/e6898611/59cc9a63N15b7a7b0.gif"
+        type="image/gif" />
+    <!--[if lte IE 8]>
+        <script src="//misc.360buyimg.com/mtd/pc/index/home/ie6tip.min.js"></script>
+    <![endif]-->
+    <link type="text/css" rel="stylesheet" href="//storage.360buyimg.com/babel/00114433/239531/production/dev/index-v1.0.2.css" />
+    <link type="text/css" rel="stylesheet" href="//misc.360buyimg.com/??jdf/1.0.0/unit/ui-base/5.0.0/ui-base.css" />
+        <link type="text/css" rel="stylesheet" href=//storage.360buyimg.com/babelpc/static/css/mall.3422aee5.css></link>
+    <script src="//misc.360buyimg.com/jdf/lib/jquery-1.6.4.js"></script>
+    <script type="text/javascript">
+        window.jdpts = {}; jdpts._st = new Date().getTime();
+    </script>
+    <style>
+        :root {
+            --app-width: 1296px;
+            --app-width-num: 1296;
+        }
+    </style>
+        <link rel="preload" href="https://storage.360buyimg.com/babelnode/jd-jssdk/4.5.0/jd-jssdk.js" as="script" crossorigin="anonymous">
+    <script src="https://storage.360buyimg.com/babelnode/jd-jssdk/4.5.0/jd-jssdk.js" crossorigin="anonymous"></script>
+    <script>try{window.jmfe&&window.jmfe.jsagentInit&&window.jmfe.jsagentInit({flag:18,rate:1,ignoreErrors:[/^window.onerror$/]})}catch(e){}</script>
+    <script src="//storage.360buyimg.com/tower/babelnode/babellib-6b8215995c.js"></script>
+<style>
+	.pd_goods_out,
+	.pd_goods_null,
+	.pd_goods_none {
+		display: none !important;
+	}
+	.rush_pd_main_head,
+	.count_down_module {
+		display: none !important;
+	}
+
+  .pd_sold_out, .pd_basement_sold_out, .pd_basement_area_sold_out,
+  .area_sold_out .pd_pic_wrap::after, .sold_out .pd_pic_wrap::after {
+    display: none;
+  }
+  .bab_opt_mod.countDown {
+    display: none;
+  }
+</style></head>
+
+<body data-ssr="1" class="w_1296">
+
+            <script>
+    window.globalInitUrl = '//bhome.jd.com/common/static/js/globalInit.js'';
+</script>
+
+<style>
+	#ttbar-apps .dorpdown-layer:last-child {
+		display:none;
+	}
+</style>
+
+<link type="text/css" rel="stylesheet" href="//misc.360buyimg.com/??jdf/1.0.0/unit/ui-base/5.0.0/ui-base.css,jdf/1.0.0/unit/shortcut/5.0.0/shortcut.css,jdf/1.0.0/unit/global-header/5.0.0/global-header.css,jdf/1.0.0/unit/myjd/5.0.0/myjd.css,jdf/1.0.0/unit/nav/5.0.0/nav.css,jdf/1.0.0/unit/shoppingcart/5.0.0/shoppingcart.css,jdf/1.0.0/unit/global-footer/5.0.0/global-footer.css,jdf/1.0.0/unit/service/5.0.0/service.css" />
+<style>
+@media all and (max-width: 1210px) {
+    .root61 .w {
+        width: 990px;
+    }
+    .root61 .w #logo-2014 {
+        width: auto;
+    }
+    .root61 .w #search-2014 {
+        margin-left: 60px;
+    }
+
+    #service-2017 .slogen {
+        height: auto;
+    }
+    #service-2017 .slogen .item.fore2 {
+        float: right;
+    }
+    #service-2017 .slogen .item.fore3 {
+        clear: left;
+        margin-top: 10px;
+    }
+    #service-2017 .slogen .item.fore4 {
+        float: right;
+        margin-top: 10px;
+    }
+}
+</style>
+
+<!--shortcut start-->
+<div id="shortcut-2014">
+	<div class="w">
+		<ul class="fl">
+			<li id="ttbar-home"><i class="iconfont">&#xe608;</i><a href="//www.jd.com/" target="_blank">äº¬ä¸é¦é¡µ</a></li>
+			<li class="dorpdown" id="ttbar-mycity"></li>
+		</ul>
+		<ul class="fr">
+			<li class="fore1" id="ttbar-login">
+				<a href="javascript:login();" class="link-login">ä½ å¥½ï¼è¯·ç»å½</a>&nbsp;&nbsp;<a href="javascript:regist();" class="link-regist style-red">åè´¹æ³¨å</a>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore2">
+				<div class="dt">
+					<a target="_blank" href="//order.jd.com/center/list.action">æçè®¢å</a>
+				</div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore3 dorpdown" id="ttbar-myjd">
+				<div class="dt cw-icon">
+					<!-- <i class="ci-right"><s>â</s></i> -->
+					<a target="_blank" href="//home.jd.com/">æçäº¬ä¸</a><i class="iconfont">&#xe605;</i>
+				</div>
+				<div class="dd dorpdown-layer"></div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore4" id="ttbar-member">
+				<div class="dt">
+					<a target="_blank" href="//vip.jd.com/">äº¬ä¸ä¼å</a>
+				</div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore5" id="ttbar-ent">
+				<div class="dt">
+					<a target="_blank" href="//b.jd.com/">ä¼ä¸éè´­</a>
+				</div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore6 dorpdown" id="ttbar-serv">
+				<div class="dt cw-icon">
+					<!-- <i class="ci-right"><s>â</s></i> -->
+					å®¢æ·æå¡<i class="iconfont">&#xe605;</i>
+				</div>
+				<div class="dd dorpdown-layer"></div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore7 dorpdown" id="ttbar-navs">
+				<div class="dt cw-icon">
+					<!-- <i class="ci-right"><s>â</s></i> -->
+					ç½ç«å¯¼èª<i class="iconfont">&#xe605;</i>
+				</div>
+				<div class="dd dorpdown-layer"></div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore8 dorpdown" id="ttbar-apps">
+				<div class="dt cw-icon">
+					<!-- <i class="ci-left"></i> -->
+					<!-- <i class="ci-right"><s>â</s></i> -->
+					<a target="_blank" href="//app.jd.com/">ææºäº¬ä¸</a>
+				</div>
+			</li>
+		</ul>
+		<span class="clr"></span>
+	</div>
+</div>
+<div id="o-header-2013">
+	<div id="header-2013" style="display:none;"></div>
+</div>
+<!--shortcut end-->
+
+<div class="w">
+	<div id="logo-2014">
+		<a href="//www.jd.com/" class="logo">äº¬ä¸</a>
+	</div>
+	<div id="search-2014">
+		<ul id="shelper" class="hide"></ul>
+		<div class="form">
+			<input type="text" onkeydown="javascript:if(event.keyCode==13) search('key');" autocomplete="off" id="key" accesskey="s"
+			 class="text" />
+			<button onclick="search('key');return false;" class="button cw-icon"><i></i>æç´¢</button>
+		</div>
+	</div>
+	<div id="settleup-2014" class="dorpdown">
+		<div class="cw-icon">
+			<i class="iconfont">&#xe607;</i>
+			<i class="iconfont arrow">&#xe601;</i>
+			<a target="_blank" href="//cart.jd.com/cart.action">æçè´­ç©è½¦</a>
+		</div>
+		<div class="dorpdown-layer">
+			<div class="spacer"></div>
+			<div id="settleup-content">
+				<span class="loading"></span>
+			</div>
+		</div>
+	</div>
+	<div id="hotwords"></div>
+	<span class="clr"></span>
+</div>
+
+<!--nav start-->
+<div id="nav-2014">
+	<div class="w">
+		<div class="w-spacer"></div>
+		<div id="categorys-2014" class="dorpdown" data-type="default">
+			<div class="dt">
+				<a target="_blank" href="//www.jd.com/allSort.aspx">å¨é¨åååç±»</a>
+			</div>
+		</div>
+		<div id="navitems-2014">
+			<ul id="navitems-group1">
+				<li clstag="" id="nav-fashion" class="fore1">
+					<a class="b" target="_blank" href="//pro.jd.com/mall/active/2aRK8YxJGhgc1gEnXLJPhT6KodXd/index.html?babelChannel=ttt3">å¤§çå¥¥è±</a>
+				</li>
+				<li clstag="" id="nav-beauty" class="fore2">
+					<a class="b" target="_blank" href="//channel.jd.com/beautysale.html">ç¾å¦é¦</a>
+				</li>
+				<li clstag="" id="nav-chaoshi" class="fore3">
+					<a class="b" target="_blank" href="//channel.jd.com/chaoshi.html">è¶å¸</a>
+				</li>
+				<li clstag="" id="nav-fresh" class="fore4">
+					<a class="b" target="_blank" href="//fresh.jd.com">çé²</a>
+				</li>
+			</ul>
+			<div class="spacer"></div>
+			<ul id="navitems-group2">
+				<li clstag="" id="nav-jdww" class="fore1">
+					<a class="b" target="_blank" href="//www.jd.hk/">äº¬ä¸å½é</a>
+				</li>
+				<li clstag="" id="nav-auction" class="fore3">
+					<a class="b" target="_blank" href="//paimai.jd.com/">æå</a>
+				</li>
+			</ul>
+			<div class="spacer"></div>
+			<ul id="navitems-group3">
+				<li clstag="" id="nav-jdjr" class="fore1">
+					<a class="b" target="_blank" href="//jr.jd.com/">éè</a>
+				</li>
+                <li clstag="" id="nav-jdwjc" class="fore2">
+					<a class="b" target="_blank" href="//mro.jd.com/">äº¬ä¸äºéå</a>
+				</li>
+			</ul>
+		</div>
+		<div id="treasure"></div>
+		<span class="clr"></span>
+	</div>
+</div>
+<!--nav end-->
+
+
+    <div id="J_babelOpt" class="bab_opt_con">
+        <div id="J_babelOptPage" class="bab_opt_page show"><div class="babel-app mall" style="background-color:#f2f2f2"><div class="bab-opt-mod bab-opt-mod-1_0 layout_full" data-floornum="1_0" data-moduleid="206555260" data-template="layout_full" style="width:100%"><div class="layout" style="width:100%"><div class="layout-column" style="width:100%;margin-right:0"><div class="flex-con" style="height:auto;width:100%;overflow:hidden"><div class="scale-con" style="display:inline-block;transform:scale3d(1, 1, 1) translateZ(0)"><div class="bab-opt-mod bab-opt-mod-1 hotzone" data-floornum="1" data-moduleid="206555261" data-template="hotzone"><div class="hot-space-module" style="background:transparent"><div class="img-wrap" style="position:relative;background:transparent"><div style="height:82px;position:relative;background:transparent"><img src="data:image/webp;base64,UklGRkAAAABXRUJQVlA4WAoAAAAQAAAAAAAAAAAAQUxQSAIAAAAAAFZQOCAYAAAAMAEAnQEqAQABAAFAJiWkAANwAP79NmgA" class="lazyload-img hotzone-pic more" data-src="//m.360buyimg.com/babel/jfs/t1/255381/26/6921/11167/6773d2f9F6200c9ba/7722c4755dcd4dd7.jpg" data-resize="0"/></div></div></div></div></div></div></div></div></div><div class="bab-opt-mod bab-opt-mod-1_1 pc_custom_code module_206555262 shared" data-floornum="1_1" data-moduleid="206555262" data-template="pc_custom_code" style="width:1296px"></div><div class="bab-opt-mod bab-opt-mod-1_2 pc_custom_code module_206555263 shared" data-floornum="1_2" data-moduleid="206555263" data-template="pc_custom_code" style="width:1296px"></div></div></div>
+    </div>
+    <script type="text/javascript">!function(){var t=/(?!storage\.)360buyimg\.com\/.*\.jpe?g(\.webp)?\s*$/i,e=/(?!storage\.)360buyimg\.com\/.*\/((s([\d^_]+)x([\d^_]+)_)?jfs)/i;var i,n,a=/(?!storage\.)360buyimg\.com\/.*\.jpe?g\s*$/i;function r(){var i=document.getElementById("J_babelOptPage").getElementsByTagName("img"),n=[];[].forEach.call(i,function(t){var e,i,a,r;t.offsetWidth<=0&&t.offsetHeight<=0||(e=t,i=window.innerWidth||document.documentElement.clientWidth,a=window.innerHeight||document.documentElement.clientHeight,r=e.getBoundingClientRect(),e.rect=r,r.top+r.height>=-a&&r.left+r.width>=0&&r.top<=2*a&&r.left<=i&&n.push(t))});var a,r,o=n.length;o&&[].forEach.call(n,function(i,n){var a=i.getAttribute("data-src"),r="0"===i.getAttribute("data-resize");if(a){var o=r?a:function(i,n){if(!t.test(i))return i;var a=i.match(e);if(!a)return i;if(a[3]&&a[4]){if(!n||!n.width&&!n.height)return i;n.width&&!n.height&&(n.height=n.width/a[3]*a[4]),n.height&&!n.width&&(n.width=n.height/a[4]*a[3]);var r="s"+Math.ceil(n.width)+"x"+Math.ceil(n.height)+"_jfs";return i.replace(a[1],r)}return n&&n.width&&n.height?i.replace("/jfs/","/s"+Math.ceil(n.width)+"x"+Math.ceil(n.height)+"_jfs/"):i}(a,i.rect),h=new Image;h.onload=function(){i.removeAttribute("data-src"),i.className+=" fadein",i.setAttribute("src",o),c(n,o)},h.onerror=function(){c(n,null)},h.src=o}else c(n,i.src)});function c(t,e){0===t&&(a=e),t+1===o&&(r=e,window.__preload_lazyload_imgs_info__={firstLoadImgSrc:a,lastLoadImgSrc:r})}}i=function(t){!function(t){if(t)for(var e=document.getElementsByTagName("img"),i=0,n=e.length;i<n;i++){var r=e[i];a.test(r.getAttribute("data-src"))&&r.setAttribute("data-src",r.getAttribute("data-src")+".webp")}}(t),r()},(n=new Image).onload=function(){n.height>0&&n.width>0?i(!0):i(!1)},n.onerror=function(){i(!1)},n.src="data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAUAmJaQAA3AA/vz0AAA="}();;</script>
+    <script>
+        (function() {
+            window.__react_data__ = {"pageData":{"msg":"success","floatLayerList":[],"paginationFlrs":"null","paginationParamEnd":"","code":"0","pagination":false,"customcodeMatQryType":{"206555262":"sync","206555263":"sync"},"asyncInterfaceBack":{"templatePlatform":"3"},"head":{"template":"page_setup","appWidth":"1296px","footSet":"0","tailStyleId":"00001276","headSet":"0","pageBgPicStyle":"0","pageBgColor":"#f2f2f2","isFootCusCode":"0","pageBgPicUrl":"","pageName":"äº¬ä¸å°é­æ¹","toolBarStyle":"1","headSourceId":"06f29259fe4704742921320058fe8d48","styleType":"1","isHeadCusCode":"0","headStyleId":"00001275","topBarStyle":"","footSourceId":"11f459447d52a97259810731871dd2ef","showShop":"0","headCodeText":null,"footCodeText":null},"activityId":"01697910","isLogin":false,"subCode":"0","transParam":"{\"bsessionId\":\"4c7f77c0-758e-4d8a-84dc-4ad8cc01843a\",\"babelChannel\":\"\",\"actId\":\"01697910\",\"enActId\":\"3ejBfFZtaQMQ4RYpBxHekmm9vyrs\",\"pageId\":\"5336984\",\"encryptCouponFlag\":\"1\",\"requestChannel\":\"pc\"}","biimpr":"01697910_5336984","floorList":[{"template":"layout_full","columnNum":"1","columnConfig":[{"columnId":"1","width":"1920"}],"templateFrom":"PageCopy","columnFloor":[{"columnId":1,"columnFloorList":[{"template":"hotzone","externalBorder":"0","customWidth":990,"hotZone":{"picList":[{"picUrl":"//m.360buyimg.com/babel/jfs/t1/255381/26/6921/11167/6773d2f9F6200c9ba/7722c4755dcd4dd7.jpg","picW":1920,"picH":160,"picName":"ME1735643856043.jpg"}],"pictureUrl":""},"ofn":"1","width":1920,"isFullScreen":"1","id":206555261,"moduleId":206555261,"priceLabel":{"show":"0"},"floorNum":"1","height":160}]}],"columnStyle":"2","floorNum":"1_0","useFlag":"0","styleId":"5","ofn":"2","width":"1920","id":206555260,"moduleId":206555260},{"template":"pc_custom_code","sourceId":"index","providerData":{"msg":"success","tabList":[{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"æ¨è","id":1,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"çµè","id":127,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"æ½®ç©","id":136,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"å½é","id":22,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"æå·","id":270,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"å®¶å±","id":135,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"ç«¥è£","id":159,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"å®¶çµ","id":4,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"ç¾å¦","id":6,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"å¥¢å","id":24,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"éå","id":126,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"ç å®","id":289,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"åè¡£","id":311,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"è¿å¨","id":13,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"ææº","id":9,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"æ±½è½¦","id":17,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"ä¸ªæ¤","id":132,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"ç¾é","id":160,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"é£é¥®","id":129,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"æ°ç ","id":128,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"æ¯å©´","id":134,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"éé¥°","id":130,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":10,"tabDisplay":"æµè¯","id":236,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"å¥³è£","id":315,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"ç·è£","id":314,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"}],"cache":false,"code":"200","chroma":{"auraLogo":"https://m.360buyimg.com/zccms/jfs/t1/225576/5/16793/3336/675be85bFf38a39ca/e950c2e729a981e6.png","configName":"æ¥å¸¸-ç½åº","searchButton":"https://m.360buyimg.com/zccms/jfs/t1/264419/8/14493/931/6790489bF21aaa9a1/ee29a7423749a202.png","tone":"0","cartButton":"https://m.360buyimg.com/zccms/jfs/t1/244765/4/22244/941/671f1e87Fb0f30732/5ebe975d23707fe2.png","selectedTabColor":"#1a1a1a ","generalLogo":"https://m.360buyimg.com/zccms/jfs/t1/234779/38/28632/3381/675be858F1bf6e5a3/e3f33207d655f14e.png","followedButton":"https://m.360buyimg.com/zccms/jfs/t1/262665/10/14442/1054/67904898F27d820c5/acf9bb9748e73963.png","flatTabColor":"rgba(26,26,26,0.75)","chromaMode":1,"tabSwipeColor":"rgba(255,255,255,0.01)","moreButton":"https://m.360buyimg.com/zccms/jfs/t1/254479/35/15710/510/6790489dFa4df6c05/152709e64be2ba9b.png","followButton":"https://m.360buyimg.com/zccms/jfs/t1/250495/19/23156/1005/67904896Fc290176d/c90e8b50fbf58023.png","returnButton":"https://m.360buyimg.com/zccms/jfs/t1/164393/16/43221/412/679048a0F0539a67c/b7225b05b1a8e1a4.png","class":"com.jd.m.news.soa.jsf.domain.channel.chroma.ChromaInfo","ceilingColor":"#ffffff","tabShapeIcon":"https://m.360buyimg.com/zccms/jfs/t1/249508/8/26937/1082/67513addF755d805f/27b0af4d5175f3e1.png"},"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabResult","touchStoneInfo":{"expBuriedStrList":["tsabtest|base64|TmV3UHJvZHVjdF82MzE0OXxiYXNl|tsabtest"],"class":"com.jd.m.news.soa.domain.touchStoneConfig.TouchStoneInfo","expResult":{"tabBi":"base"}},"darkChroma":{"auraLogo":"https://m.360buyimg.com/zccms/jfs/t1/230673/24/30941/3264/675be874Fc0cfa2bb/7fe3308c42b8a23a.png","searchButton":"https://m.360buyimg.com/zccms/jfs/t1/229744/29/29295/616/679048b7F7b4260c7/338cbebee5c60db4.png","selectedTabColor":"#e6e6e6","generalLogo":"https://m.360buyimg.com/zccms/jfs/t1/241484/35/27692/3391/675be877Ff27f6ee6/48ad4ede03aa7308.png","followedButton":"https://m.360buyimg.com/zccms/jfs/t1/234122/39/34382/610/679048b3Ffe3c8028/72b95cdb910f939f.png","flatTabColor":"rgba(230,230,230,0.75)","chromaMode":3,"tabSwipeColor":" #1F1F1F","moreButton":"https://m.360buyimg.com/zccms/jfs/t1/253066/17/15742/296/679048baFb329b488/007ad3f8117e9fe1.png","followButton":"https://m.360buyimg.com/zccms/jfs/t1/227340/6/34614/664/679048b5F316529b9/1a13d91f62330059.png","returnButton":"https://m.360buyimg.com/zccms/jfs/t1/252683/31/15281/249/679048bdF276996f9/353a82cd9870ec18.png","class":"com.jd.m.news.soa.jsf.domain.channel.chroma.ChromaInfo","ceilingColor":"#1F1F1F","tabShapeIcon":"https://m.360buyimg.com/zccms/jfs/t1/197878/16/52228/1044/67513b29Fbfd198d5/bb1c17fc918ab176.png"},"floorCode":"channelTab"},"channel":"pc","floorNum":"1_1","godIds":[],"ssr":1,"styleId":"00038722","bizId":"4","enc":"2B3D6BF20793508CE15041816500AB05C01CFD74F44C39FA1D3F3B2AF4588514A12481A02AAB6F8F0BD091D4F7E6C408","boardParams":{},"id":206555262,"moduleId":206555262,"timestamp":"1737872376557","htmlSourceUrl":"babelview/00038723/v20241223181033/index.repl.html","hasBindMaterial":0,"onlineVersionId":"v20241223181033","htmlSource":"&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover&quot;/&gt;&lt;link href=&quot;//storage11.360buyimg.com/ifloors/00038722/static/css/main.37306a43.css&quot; rel=&quot;stylesheet&quot;&gt;&lt;/head&gt;&lt;body&gt;&lt;div class=&quot;ipaas-floor-app&quot;&gt;&lt;/div&gt;&lt;script src=&quot;//storage11.360buyimg.com/ifloors/00038722/static/js/main.1c866ed5.js&quot;&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;","materialQryType":"sync","cmpIds":[],"ofn":"3","clientAssets":"{\"files\":[{\"type\":\"link\",\"src\":\"//storage11.360buyimg.com/ifloors/00038722/static/css/main.37306a43.css\",\"name\":\"main\"},{\"type\":\"script\",\"src\":\"//storage11.360buyimg.com/ifloors/00038722/static/js/main.1c866ed5.js\",\"name\":\"main\"},{\"type\":\"link\",\"src\":\"//storage11.360buyimg.com/ifloors/00038722/static/css/component.37306a43.css\",\"name\":\"component\"},{\"type\":\"script\",\"src\":\"//storage11.360buyimg.com/ifloors/00038722/static/js/component.8ff48b90.js\",\"name\":\"component\"}],\"ifloorId\":\"00038722\",\"jsonpFunctionName\":\"ssrIjsonp\"}","advIds":[],"h5FloorFrameState":0},{"template":"pc_custom_code","sourceId":"index","providerData":{"msg":"success","tabList":[{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"æ¨è","id":1,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"çµè","id":127,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"æ½®ç©","id":136,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"å½é","id":22,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"æå·","id":270,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"å®¶å±","id":135,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"ç«¥è£","id":159,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"å®¶çµ","id":4,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"ç¾å¦","id":6,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"å¥¢å","id":24,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"éå","id":126,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"ç å®","id":289,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"åè¡£","id":311,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"è¿å¨","id":13,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"ææº","id":9,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"æ±½è½¦","id":17,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"ä¸ªæ¤","id":132,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"ç¾é","id":160,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"é£é¥®","id":129,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"æ°ç ","id":128,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"æ¯å©´","id":134,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"éé¥°","id":130,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":10,"tabDisplay":"æµè¯","id":236,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"å¥³è£","id":315,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"},{"brokerInfo":"","mcInfo":"","normalIcon":"","selectedIcon":"","tabType":1,"tabDisplay":"ç·è£","id":314,"tabUrl":"","type":1,"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabInfo"}],"cache":true,"code":"200","feeds":{"next":false,"list":[{"sourceType":3,"insert":true,"position":1,"list":[{"effectImage":"https://m.360buyimg.com/img/jfs/t1/266961/36/21988/183457/67b6e020Faf0c591b/1afef32b50e0429b.png","coverImg":"https://m.360buyimg.com/zccms/jfs/t1/255056/32/8060/13704/677658f5F426090c9/46247a8fde05cd44.png","linkSwitch":"0","activityName":"èè¤ä½³ç¾æ¤æ²æµ´é²","cardType":1,"sysReqTime":1740457759590,"description":"ç¬¬2ä»¶åä»·èµ é²è±","effectType":"1","skuImg":"https://m.360buyimg.com/img/jfs/t1/255385/40/23037/101554/67b6e054Fb4fd9402/b0a353670507005d.png","cardSource":0,"dateArch":"https://m.360buyimg.com/zccms/jfs/t1/39057/14/28791/5432/66a3532eF461d55e5/792f61defce034b7.png","newTime":1740103200000,"linkUrl":"https://item.jd.com/100186511016.html","linkType":0,"sortNum":1,"id":17664,"skuId":"100186511016"},{"coverImg":"https://m.360buyimg.com/zccms/jfs/t1/255056/32/8060/13704/677658f5F426090c9/46247a8fde05cd44.png","linkSwitch":"0","activityName":"çæNeo7 SE","cardType":2,"sysReqTime":1740457759590,"description":"äº«15%å½å®¶è¡¥è´´","skuImg":"https://m.360buyimg.com/img/jfs/t20280221/254294/6/23464/103619/67b834dfF09fc0bc6/be113672c4cdb832.png","cardSource":0,"dateArch":"https://m.360buyimg.com/zccms/jfs/t1/39057/14/28791/5432/66a3532eF461d55e5/792f61defce034b7.png","newTime":1740470400000,"linkUrl":"https://item.m.jd.com/product/100150214255.html","linkType":0,"sortNum":2,"id":17669,"skuId":"100150214255"},{"coverImg":"https://m.360buyimg.com/zccms/jfs/t1/255223/2/7949/13036/677658f8F5e0c6c19/a1936951acdee64b.png","linkSwitch":"0","activityName":"REDMI A Pro 75","cardType":0,"sysReqTime":1740457759590,"description":"å½è¡¥è³é«äº«8æ","skuImg":"https://m.360buyimg.com/img/jfs/t20280212/257963/21/19046/34639/67ac5e28F5c52413f/19ca9a45773304f3.jpg","cardSource":0,"dateArch":"https://m.360buyimg.com/zccms/jfs/t1/39057/14/28791/5432/66a3532eF461d55e5/792f61defce034b7.png","newTime":1739462400000,"linkUrl":"https://item.jd.com/100172101214.html?bbtf=1","linkType":0,"sortNum":99,"id":17621,"skuId":"100172101214"},{"coverImg":"https://m.360buyimg.com/zccms/jfs/t1/255223/2/7949/13036/677658f8F5e0c6c19/a1936951acdee64b.png","linkSwitch":"0","activityName":"é£å©æµ¦çå¯é ææ©å¨","cardType":0,"sysReqTime":1740457759590,"description":"3æåæ¯ éé²è±å¡","skuImg":"https://m.360buyimg.com/img/jfs/t20280221/258196/14/22985/130032/67b86159F1589d934/347047bfb674411f.png","cardSource":0,"dateArch":"https://m.360buyimg.com/zccms/jfs/t1/39057/14/28791/5432/66a3532eF461d55e5/792f61defce034b7.png","newTime":1740412800000,"linkUrl":"https://item.jd.com/100189647252.html","linkType":0,"sortNum":99,"id":17671,"skuId":"100189647252"},{"coverImg":"https://m.360buyimg.com/zccms/jfs/t1/255223/2/7949/13036/677658f8F5e0c6c19/a1936951acdee64b.png","linkSwitch":"0","activityName":"æµªç´è¡¨åæå¤å»èè¡¨","cardType":0,"sysReqTime":1740457759590,"description":"å°äº«åçå®å¶å¥¢ç¤¼","skuImg":"https://m.360buyimg.com/img/jfs/t1/266760/39/22303/167700/67b6d6b7F3bcea2b5/0cc3efe57d640169.png","cardSource":0,"dateArch":"https://m.360buyimg.com/zccms/jfs/t1/39057/14/28791/5432/66a3532eF461d55e5/792f61defce034b7.png","newTime":1740412800000,"linkUrl":"https://item.jd.com/100120726093.html","linkType":0,"sortNum":99,"id":17659,"skuId":"100120726093"},{"coverImg":"https://m.360buyimg.com/zccms/jfs/t1/255223/2/7949/13036/677658f8F5e0c6c19/a1936951acdee64b.png","linkSwitch":"0","activityName":"OPPO Enco Air4i","cardType":0,"sysReqTime":1740457759590,"description":"æåèµ¢5åäº¬è±","skuImg":"https://m.360buyimg.com/img/jfs/t1/254006/3/20709/15176/67ad9560Ff96db6e5/e7295d93a682f1f8.png","cardSource":0,"dateArch":"https://m.360buyimg.com/zccms/jfs/t1/39057/14/28791/5432/66a3532eF461d55e5/792f61defce034b7.png","newTime":1739721600000,"linkUrl":"https://item.jd.com/100149040797.html","linkType":0,"sortNum":99,"id":17637,"skuId":"100149040797"}],"type":23},{"benefits":[{"title":"ä¸æ°4å¤©","type":4}],"broker_info":"pos_1&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","skuStyle":6,"saleType":3,"insert":false,"type":1,"upperBenefits":[{"typeLabel":"2","text":"åé®","type":"15"},{"typeLabel":"2","text":"7å¤©æ çç±éè´§","type":"4"},{"typeLabel":"2","text":"7å¤©ä»·ä¿","type":"30"}],"skuName":"åä¸ºmate70pro æ°åä¸å¸","brokerInfo":"pos_1&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","outOfStock":0,"cid2":"653","cid3":"655","cid1":"9987","liveStatus":0,"skuId":"10136959726530","onShelvesTime":"2025-02-21 11:37:30","invalidPartition":0,"imageSourceType":3,"bottomBenefits":[{"typeLabel":"2","text":"100%å¥½è¯","type":"6"}],"skuImg":"https://m.360buyimg.com/img/jfs/t1/252371/15/19157/31646/67a95d16F5035b9f3/efc64c32818f95f3.png","blockCart":false,"isFzxp":2,"sourceType":1,"isLimitBuy":0,"daysSinceLaunch":4,"jdPrice":"2299"},{"benefits":[{"title":"ä¸æ°1å¤©","type":4}],"broker_info":"pos_2&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","skuStyle":6,"saleType":3,"insert":false,"type":1,"upperBenefits":[{"typeLabel":"2","text":"åé®","type":"15"},{"typeLabel":"2","text":"7å¤©æ çç±éè´§","type":"4"},{"typeLabel":"2","text":"7å¤©ä»·ä¿","type":"30"}],"skuName":"æ¦è±å±éæå®¶ç¨å¥æ·é¨å£å¤§å®¹éæ¥¼éå¤è¿é¨å®¢åå¨ç©æå°æ·åå åéæ¶é²å° å¸¸è§ 60*29*56/ç®ææ¬¾ ç»è£","brokerInfo":"pos_2&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","outOfStock":0,"cid2":"9848","cid3":"30544","cid1":"9847","liveStatus":0,"skuId":"10125226795355","onShelvesTime":"2025-02-23 13:55:43","invalidPartition":0,"imageSourceType":5,"bottomBenefits":[{"typeLabel":"2","text":"ç­åº¦é£å10å+","type":"2"}],"skuImg":"https://m.360buyimg.com/mobilecms/jfs/t1/192567/3/51190/126928/67358e2cFec8a4dc8/30ba39f8f9f3f857.jpg","blockCart":false,"isFzxp":2,"sourceType":1,"isLimitBuy":0,"daysSinceLaunch":1,"jdPrice":"58.5"},{"benefits":[{"title":"ä¸æ°10å¤©","type":4}],"broker_info":"pos_3&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","skuStyle":6,"saleType":3,"insert":false,"type":1,"upperBenefits":[{"typeLabel":"2","text":"åé®","type":"15"},{"typeLabel":"2","text":"7å¤©æ çç±éè´§","type":"4"},{"typeLabel":"2","text":"éªçµéæ¬¾","type":"22"}],"skuName":"è±ç¾æ±æå åºåäººåºæå åä¼å®¶ç¨åç¡èººæ¤ä¾¿æºåå¬å®¤ç®æè¡åè¡ååºéªæ¤ ãå ååç®¡56*170ã+å¤´æãç®æ","brokerInfo":"pos_3&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","outOfStock":0,"cid2":"30500","cid3":"30546","cid1":"9847","liveStatus":0,"skuId":"10137641110927","onShelvesTime":"2025-02-15 02:11:58","invalidPartition":0,"imageSourceType":5,"bottomBenefits":[{"typeLabel":"2","text":"100%å¥½è¯","type":"6"}],"skuImg":"https://m.360buyimg.com/mobilecms/jfs/t1/261872/37/19786/101943/67af7009F097cd91b/2760d2c1d9589788.jpg","blockCart":false,"isFzxp":2,"sourceType":1,"isLimitBuy":0,"daysSinceLaunch":10,"jdPrice":"74.29"},{"benefits":[{"title":"ä¸æ°7å¤©","type":4}],"broker_info":"pos_4&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","skuStyle":6,"saleType":3,"insert":false,"type":1,"upperBenefits":[{"typeLabel":"2","text":"åé®","type":"15"}],"skuName":"çµå¨ä»£æ­¥æ±½è½¦ä¸ç¨é©¾è¯å¸¦çåè´§","brokerInfo":"pos_4&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","outOfStock":0,"cid2":"28709","cid3":"28710","cid1":"12379","liveStatus":0,"skuId":"10137954101172","onShelvesTime":"2025-02-17 17:48:12","invalidPartition":0,"imageSourceType":3,"bottomBenefits":[{"typeLabel":"2","text":"100%å¥½è¯","type":"6"}],"skuImg":"https://m.360buyimg.com/img/jfs/t1/264731/29/21501/58700/67b4239fF32663dd7/c6f315802c44660a.png","blockCart":false,"isFzxp":2,"sourceType":1,"isLimitBuy":0,"daysSinceLaunch":7,"jdPrice":"300"},{"activityUrl":"https://pro.m.jd.com/mall/active/3daugcCtS9EZjADUEwD7tfYTJct8/index.html","sourceType":3,"activityImg":"https://m.360buyimg.com/njmobilecms/jfs/t1/254803/28/21349/48022/67b81bbeF2007d3fd/2e52a8376b55e451.jpg","activityName":"å°è´§æ½ç­¾-åºé¨æ°ç","insert":true,"aspectRatio":0.76,"id":17366,"position":6,"activityType":1,"type":2},{"broker_info":"pos_5&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","rankInfo":{"rankLongTitle":"çµå¨èªè¡è½¦æ¦","rankId":3184267,"rankNum":5,"rankName":"çµå¨èªè¡è½¦æ°åæ¦","rankUrl":"https://pro.m.jd.com/mall/active/jg3YqXbYY9a2AC9HfMe4XRY1ej3/index.html?rankId=3184267&fromName=xinpin&currSku=10136857060137&queryType=1&pageNum=1"},"skuStyle":6,"saleType":3,"insert":false,"type":1,"upperBenefits":[{"typeLabel":"2","text":"ç¾äº¿è¡¥è´´","type":"26"},{"typeLabel":"2","text":"åé®","type":"15"},{"typeLabel":"2","text":"ä¹°è´µååèµ","type":"16"},{"typeLabel":"2","text":"ä»¥æ§æ¢æ°","type":"17"}],"skuName":"ãç¾äº¿è¡¥è´´æ¬¾ãå¤å°çµå¨è½¦èªè¡è½¦","brokerInfo":"pos_5&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","outOfStock":0,"cid2":"28168","cid3":"28171","cid1":"27508","liveStatus":0,"skuId":"10136857060137","onShelvesTime":"2025-02-08 17:00:26","invalidPartition":0,"imageSourceType":4,"bottomBenefits":[{"typeLabel":"1","text":"å·²è¡¥è´´90å","type":"11"}],"skuImg":"https://m.360buyimg.com/img/jfs/t20280216/265544/17/20306/28680/67b14964Ff0ca339a/6fd1ed4a3c1abb3e.jpg","blockCart":true,"isFzxp":2,"sourceType":1,"isLimitBuy":0,"daysSinceLaunch":16,"jdPrice":"1019"},{"benefits":[{"titleParts":["è§£æ¾åæ","ç¾è§å¤§æ¹","æäºææ§","ä¸å ç©ºé´"],"type":38}],"broker_info":"pos_6&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","skuStyle":6,"saleType":3,"insert":false,"type":1,"upperBenefits":[{"typeLabel":"2","text":"ç¾äº¿è¡¥è´´","type":"26"},{"typeLabel":"2","text":"åé®","type":"15"},{"typeLabel":"2","text":"ä¹°è´µååèµ","type":"16"},{"typeLabel":"2","text":"7å¤©æ çç±éè´§","type":"4"}],"skuName":"LOYKå¾·å½åæ¡¶åè¡£æ´è¡£æº","brokerInfo":"pos_6&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","outOfStock":0,"cid2":"794","cid3":"24706","cid1":"737","liveStatus":0,"skuId":"10136384458288","onShelvesTime":"2025-02-07 17:27:14","invalidPartition":0,"imageSourceType":3,"bottomBenefits":[{"typeLabel":"1","text":"å·²è¡¥è´´14.27å","type":"11"}],"skuImg":"https://m.360buyimg.com/img/jfs/t1/257515/3/17696/31024/67a6cf69Ff6aec775/cd5b87f269ed0fb2.png","blockCart":true,"isFzxp":2,"sourceType":1,"isLimitBuy":0,"daysSinceLaunch":17,"jdPrice":"1148"},{"sourceType":3,"insert":true,"id":16722,"position":9,"type":26,"followed":false,"followedPic":"https://m.360buyimg.com/njmobilecms/jfs/t1/226660/38/26682/8042/6718f31dF32d01ffd/61db6102695af2b1.png","unfollowedPic":"https://m.360buyimg.com/njmobilecms/jfs/t1/249521/3/21916/6676/6718f319Fc6ffad42/c7fc300cb52da328.png"},{"broker_info":"pos_7&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","rankInfo":{"rankLongTitle":"æ¤åç´ æ¦","rankId":3181389,"rankNum":1,"rankName":"æ¤åç´ æ°åæ¦","rankUrl":"https://pro.m.jd.com/mall/active/jg3YqXbYY9a2AC9HfMe4XRY1ej3/index.html?rankId=3181389&fromName=xinpin&currSku=10136770284180&queryType=1&pageNum=1"},"skuStyle":6,"saleType":3,"insert":false,"type":1,"upperBenefits":[{"typeLabel":"2","text":"ç¾äº¿è¡¥è´´","type":"26"},{"typeLabel":"2","text":"åé®","type":"15"},{"typeLabel":"2","text":"ä¹°è´µååèµ","type":"16"},{"typeLabel":"2","text":"7å¤©æ çç±éè´§","type":"4"}],"skuName":"ãèä¸æ¥TOPæ¦ãæ å­è±æ¤åç´ ","brokerInfo":"pos_7&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","outOfStock":0,"cid2":"16751","cid3":"16757","cid1":"16750","liveStatus":0,"skuId":"10136770284180","onShelvesTime":"2025-02-06 14:15:28","invalidPartition":0,"imageSourceType":4,"bottomBenefits":[{"typeLabel":"1","text":"å·²è¡¥è´´16.06å","type":"11"}],"skuImg":"https://m.360buyimg.com/img/jfs/t20280219/260346/18/21490/11569/67b53f74F8e12b5ce/5d0db57e6d665a14.jpg","blockCart":true,"isFzxp":2,"sourceType":1,"isLimitBuy":0,"daysSinceLaunch":18,"jdPrice":"25.9"},{"benefits":[{"title":"ä¸æ°13å¤©","type":4}],"broker_info":"pos_8&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","rankInfo":{"rankLongTitle":"çæ§æåæ¦","rankId":3186135,"rankNum":2,"rankName":"çæ§æåæ°åæ¦","rankUrl":"https://pro.m.jd.com/mall/active/jg3YqXbYY9a2AC9HfMe4XRY1ej3/index.html?rankId=3186135&fromName=xinpin&currSku=10137239825977&queryType=1&pageNum=1"},"skuStyle":6,"saleType":3,"insert":false,"type":1,"upperBenefits":[{"typeLabel":"2","text":"åé®","type":"15"},{"typeLabel":"2","text":"7å¤©æ çç±éè´§","type":"4"},{"typeLabel":"2","text":"180å¤©åªæ¢ä¸ä¿®","type":"18"}],"skuName":"å°ç±³æºéç¨ç«ç¼æåå¤´","brokerInfo":"pos_8&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","outOfStock":0,"cid2":"12345","cid3":"22236","cid1":"652","liveStatus":0,"skuId":"10137239825977","onShelvesTime":"2025-02-11 16:01:36","invalidPartition":0,"imageSourceType":5,"bottomBenefits":[{"typeLabel":"2","text":"100%å¥½è¯","type":"6"}],"skuImg":"https://m.360buyimg.com/mobilecms/jfs/t1/232565/14/29960/55679/67ab01b7Fb77a3c5b/f54cb88a5fde0269.jpg","blockCart":false,"isFzxp":2,"sourceType":1,"isLimitBuy":0,"daysSinceLaunch":13,"jdPrice":"69"},{"benefits":[{"title":"ä¸æ°10å¤©","type":4}],"broker_info":"pos_9&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","skuStyle":6,"saleType":3,"insert":false,"type":1,"upperBenefits":[{"typeLabel":"2","text":"7å¤©æ çç±éè´§","type":"4"},{"typeLabel":"2","text":"7å¤©ä»·ä¿","type":"30"},{"typeLabel":"2","text":"éªçµéæ¬¾","type":"22"}],"skuName":"ã9ä¸+äººå³æ³¨ãå®æ¨å®¶ç¨è½»å¥¢è¡£æ","brokerInfo":"pos_9&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","outOfStock":0,"cid2":"9848","cid3":"11972","cid1":"9847","liveStatus":0,"skuId":"10136859974081","onShelvesTime":"2025-02-15 10:13:25","invalidPartition":0,"imageSourceType":3,"bottomBenefits":[{"typeLabel":"2","text":"100%å¥½è¯","type":"6"}],"skuImg":"https://m.360buyimg.com/img/jfs/t1/257431/8/23502/221646/67b97c9aF2c61d3a2/1b3f7c47e00c3f05.png","blockCart":false,"isFzxp":2,"sourceType":1,"isLimitBuy":0,"daysSinceLaunch":10,"jdPrice":"701"},{"activityUrl":"https://pro.m.jd.com/mall/active/4Va8jNzzHPqgTUhxwiTn9PHyVZCB/index.html?babelChannel=ttt4","sourceType":3,"activityImg":"https://m.360buyimg.com/njmobilecms/jfs/t1/263374/16/19620/156542/67ae9805F79b07ee3/2e856274ef65cbf5.png","activityName":"æ°å¥ç¹","insert":true,"aspectRatio":0.75,"id":16914,"position":13,"activityType":0,"type":2},{"broker_info":"pos_10&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","skuStyle":6,"saleType":3,"insert":false,"type":1,"upperBenefits":[{"typeLabel":"2","text":"åé®","type":"15"},{"typeLabel":"2","text":"7å¤©æ çç±éè´§","type":"4"},{"typeLabel":"2","text":"7å¤©ä»·ä¿","type":"30"}],"skuName":"äº¬åé¹¿Heritage PROè±ªåçç®é©ææçµèæºç®± æ¯æMATXä¸»æ¿/ATXçµæº/360æ°´å·/40CMæ¾å¡/Type-c Heritagesæ åæ¬¾é»ï¼ä¸å¸¦é£æï¼","brokerInfo":"pos_10&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","outOfStock":0,"cid2":"677","cid3":"687","cid1":"670","liveStatus":0,"skuId":"10137017582601","onShelvesTime":"2025-02-09 11:25:13","invalidPartition":0,"imageSourceType":4,"bottomBenefits":[{"typeLabel":"2","text":"ç­åº¦é£å10å+","type":"2"}],"skuImg":"https://m.360buyimg.com/img/jfs/t1/268091/28/17860/65175/67a81e83F52065b0e/0944dbc9da1e9e96.jpg","blockCart":false,"isFzxp":2,"sourceType":1,"isLimitBuy":0,"daysSinceLaunch":16,"jdPrice":"399"},{"broker_info":"pos_11&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","skuStyle":6,"saleType":3,"insert":false,"type":1,"upperBenefits":[{"typeLabel":"2","text":"èªè¥","type":"14"},{"typeLabel":"2","text":"7å¤©æ çç±éè´§","type":"4"},{"typeLabel":"2","text":"7å¤©ä»·ä¿","type":"30"}],"skuName":"ç­å°¼è·¯ï¼Balenoï¼åå¤«æ ¼è£¤å­ç·ç§å­£éç£é«è¡é©ç³»ç®çº¦æèè£¤ç·é»è²æ½®æµä¼é²é¿è£¤æ½®","brokerInfo":"pos_11&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","outOfStock":0,"cid2":"1342","cid3":"9736","cid1":"1315","liveStatus":0,"skuId":"100148773805","onShelvesTime":"2025-02-07 15:11:21","invalidPartition":0,"imageSourceType":5,"bottomBenefits":[{"typeLabel":"2","text":"ç­åº¦é£å10å+","type":"2"}],"skuImg":"https://m.360buyimg.com/mobilecms/jfs/t1/263701/11/16877/239126/67a2dd96F59b871f9/a327b5afae9580c5.jpg","blockCart":false,"isFzxp":2,"sourceType":1,"isLimitBuy":0,"daysSinceLaunch":17,"jdPrice":"69.9"},{"broker_info":"pos_12&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","skuStyle":6,"saleType":3,"insert":false,"type":1,"upperBenefits":[{"typeLabel":"2","text":"åé®","type":"15"},{"typeLabel":"2","text":"7å¤©æ çç±éè´§","type":"4"},{"typeLabel":"2","text":"éªçµéæ¬¾","type":"22"}],"skuName":"DR-FLVVSä¸å«å¥³ç¥èç¤¼ç©ãåªåä¹é­ç«¥éä¸ãåæ¬¾åªåå°å°ä¹æ··å¤©èä¸æ¥åè´¨ å¹²å¤åæé¯-é­å£60ç ","brokerInfo":"pos_12&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","outOfStock":0,"cid2":"6182","cid3":"6189","cid1":"6144","liveStatus":0,"skuId":"10136783249569","onShelvesTime":"2025-02-07 18:46:13","invalidPartition":0,"imageSourceType":5,"bottomBenefits":[{"typeLabel":"2","text":"ç­åº¦é£å10å+","type":"2"}],"skuImg":"https://m.360buyimg.com/mobilecms/jfs/t1/258363/14/17176/113075/67a47b0cFfdd1a9fc/9c2360561af05810.jpg","blockCart":false,"isFzxp":2,"sourceType":1,"isLimitBuy":0,"daysSinceLaunch":17,"jdPrice":"195"},{"benefits":[{"titleParts":["åå·¥ç²¾ç»","åå·¥ç²¾è´","æ¯«æ å¼å³","åæ»è¡¨é¢"],"type":38}],"broker_info":"pos_13&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","skuStyle":6,"saleType":3,"insert":false,"type":1,"upperBenefits":[{"typeLabel":"2","text":"7å¤©æ çç±éè´§","type":"4"},{"typeLabel":"2","text":"6æåæ¯","type":"3"},{"typeLabel":"2","text":"éªçµéæ¬¾","type":"22"}],"skuName":"å®æ¨æ²åä¹éæ¨æ²åæ°ä¸­å¼å®¶å·","brokerInfo":"pos_13&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","outOfStock":0,"cid2":"9849","cid3":"30561","cid1":"9847","liveStatus":0,"skuId":"10134659263933","onShelvesTime":"2025-01-28 19:55:19","invalidPartition":0,"imageSourceType":3,"bottomBenefits":[{"typeLabel":"2","text":"100%å¥½è¯","type":"6"}],"skuImg":"https://m.360buyimg.com/img/jfs/t1/265124/7/9246/627009/677cd372Fe14c9dc4/9aaa2648fcec0ac1.png","blockCart":false,"isFzxp":2,"sourceType":1,"isLimitBuy":0,"daysSinceLaunch":27,"jdPrice":"1980"},{"broker_info":"pos_14&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","skuStyle":6,"saleType":3,"insert":false,"type":1,"upperBenefits":[{"typeLabel":"2","text":"åé®","type":"15"},{"typeLabel":"2","text":"7å¤©æ çç±éè´§","type":"4"},{"typeLabel":"2","text":"7å¤©ä»·ä¿","type":"30"}],"skuName":"å®è¸2025æ°æ¬¾ç·éè½»ä¾¿ç¾æ­","brokerInfo":"pos_14&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","outOfStock":0,"cid2":"12099","cid3":"9756","cid1":"1318","liveStatus":0,"skuId":"10136869875112","onShelvesTime":"2025-02-07 19:22:44","invalidPartition":0,"imageSourceType":5,"bottomBenefits":[{"typeLabel":"2","text":"ç­åº¦é£å10å+","type":"2"}],"skuImg":"https://m.360buyimg.com/mobilecms/jfs/t1/265388/22/17407/158536/67a5db1fF928e64ef/7c24a5a0101092c4.jpg","blockCart":false,"isFzxp":2,"sourceType":1,"isLimitBuy":0,"daysSinceLaunch":17,"jdPrice":"199"},{"benefits":[{"title":"ä¸æ°14å¤©","type":4}],"broker_info":"pos_15&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","rankInfo":{"rankLongTitle":"å®é²çæ§æ¦","rankId":3186029,"rankNum":3,"rankName":"å®é²çæ§æ°åæ¦","rankUrl":"https://pro.m.jd.com/mall/active/jg3YqXbYY9a2AC9HfMe4XRY1ej3/index.html?rankId=3186029&fromName=xinpin&currSku=10137132238981&queryType=1&pageNum=1"},"skuStyle":6,"saleType":3,"insert":false,"type":1,"upperBenefits":[{"typeLabel":"2","text":"åé®","type":"15"},{"typeLabel":"2","text":"7å¤©æ çç±éè´§","type":"4"},{"typeLabel":"2","text":"180å¤©åªæ¢ä¸ä¿®","type":"18"}],"skuName":"TP-LINK 360åº¦å¨æ¯é±¼ç¼æåå¤´","brokerInfo":"pos_15&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","outOfStock":0,"cid2":"716","cid3":"7374","cid1":"670","liveStatus":0,"skuId":"10137132238981","onShelvesTime":"2025-02-10 14:56:51","invalidPartition":0,"imageSourceType":3,"bottomBenefits":[{"typeLabel":"2","text":"ç­åº¦é£å65%","type":"2"}],"skuImg":"https://m.360buyimg.com/img/jfs/t1/266274/2/18941/49478/67ac3e69F9adbb05a/532125af705bc5bb.png","blockCart":false,"isFzxp":2,"sourceType":1,"isLimitBuy":0,"daysSinceLaunch":14,"jdPrice":"199"},{"broker_info":"pos_16&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","skuStyle":6,"saleType":3,"insert":false,"type":1,"upperBenefits":[{"typeLabel":"2","text":"åé®","type":"15"}],"skuName":"çè¯ºé»éä¹¾å¤åæé¯å¥³æ°æ¬¾999è¶³éé¯å­çæ¥38å¥³ç¥èç¤¼ç©éç·å¥³å é»éåå /ééçº¦8.8å","brokerInfo":"pos_16&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","outOfStock":0,"cid2":"6145","cid3":"6148","cid1":"6144","liveStatus":0,"skuId":"10136832843608","onShelvesTime":"2025-02-07 09:57:36","invalidPartition":0,"imageSourceType":5,"bottomBenefits":[{"typeLabel":"2","text":"ç­åº¦é£å10å+","type":"2"}],"skuImg":"https://m.360buyimg.com/mobilecms/jfs/t1/261974/39/17315/135867/67a5665aF21ecd93c/bad448290e4a2211.jpg","blockCart":false,"isFzxp":2,"sourceType":1,"isLimitBuy":0,"daysSinceLaunch":18,"jdPrice":"7568"},{"broker_info":"pos_17&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","skuStyle":6,"saleType":3,"insert":false,"type":1,"upperBenefits":[{"typeLabel":"2","text":"åé®","type":"15"},{"typeLabel":"2","text":"7å¤©æ çç±éè´§","type":"4"},{"typeLabel":"2","text":"éªçµéæ¬¾","type":"22"}],"skuName":"åå²å«ä»æ¡å¨å®æ¨çº¯å®æ¨åæ¹æ¡ä¸­å¼ä»¿å¤åæä¸­å èå¼é¤æ¡é¥­åºé¤é¦ é¢è²å°ºå¯¸è®¢åä¸è¦æ","brokerInfo":"pos_17&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","outOfStock":0,"cid2":"9851","cid3":"30519","cid1":"9847","liveStatus":0,"skuId":"10136705285053","onShelvesTime":"2025-02-06 10:22:36","invalidPartition":0,"imageSourceType":5,"bottomBenefits":[{"typeLabel":"2","text":"100%å¥½è¯","type":"6"}],"skuImg":"https://m.360buyimg.com/mobilecms/jfs/t1/160100/25/38629/180994/64ae7303F427624ae/cbd62d2d8d0b6dd4.jpg","blockCart":false,"isFzxp":2,"sourceType":1,"isLimitBuy":0,"daysSinceLaunch":19,"jdPrice":"999"},{"benefits":[{"title":"ä¸æ°13å¤©","type":4}],"broker_info":"pos_18&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","skuStyle":6,"saleType":3,"insert":false,"type":1,"upperBenefits":[{"typeLabel":"2","text":"åé®","type":"15"},{"typeLabel":"2","text":"7å¤©æ çç±éè´§","type":"4"},{"typeLabel":"2","text":"180å¤©åªæ¢ä¸ä¿®","type":"18"}],"skuName":"T6magicå¥è³å¼èçè³æº","brokerInfo":"pos_18&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","outOfStock":0,"cid2":"828","cid3":"842","cid1":"652","liveStatus":0,"skuId":"10137233719446","onShelvesTime":"2025-02-11 14:08:48","invalidPartition":0,"imageSourceType":3,"bottomBenefits":[{"typeLabel":"2","text":"100%å¥½è¯","type":"6"}],"skuImg":"https://m.360buyimg.com/img/jfs/t1/267975/9/21736/46493/67b583d3F48255c97/297ce6dd4fc226ad.png","blockCart":false,"isFzxp":2,"sourceType":1,"isLimitBuy":0,"daysSinceLaunch":13,"jdPrice":"239"},{"benefits":[{"title":"ä¸æ°12å¤©","type":4}],"broker_info":"pos_19&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","skuStyle":6,"saleType":3,"insert":false,"type":1,"upperBenefits":[{"typeLabel":"2","text":"èªè¥","type":"14"},{"typeLabel":"2","text":"7å¤©æ çç±éè´§","type":"4"},{"typeLabel":"2","text":"7å¤©ä»·ä¿","type":"30"}],"skuName":"èæ³ï¼Lenovoï¼çæåç å¼è½è S130 13è±å¯¸äºåä¸ç¬è®°æ¬å¹³æ¿çµè 3Kæ¤ç¼å¨é¢å±åå¬16G+512G èªå¸¦é®ç Win11 ","brokerInfo":"pos_19&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","outOfStock":0,"cid2":"671","cid3":"2694","cid1":"670","liveStatus":0,"skuId":"100188828546","onShelvesTime":"2025-02-12 14:15:24","invalidPartition":0,"imageSourceType":3,"bottomBenefits":[{"typeLabel":"2","text":"100%å¥½è¯","type":"6"}],"skuImg":"https://m.360buyimg.com/img/jfs/t1/265633/1/18819/74068/67ac1dbcFbd491a91/41c1e984ce7ff46b.png","blockCart":false,"isFzxp":2,"sourceType":1,"isLimitBuy":0,"daysSinceLaunch":12,"jdPrice":"3199"},{"benefits":[{"title":"ä¸æ°11å¤©","type":4}],"broker_info":"pos_20&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","skuStyle":6,"saleType":3,"insert":false,"type":1,"upperBenefits":[{"typeLabel":"2","text":"åé®","type":"15"},{"typeLabel":"2","text":"7å¤©æ çç±éè´§","type":"4"}],"skuName":"è³é­å¸ï¼THERMOSï¼åªå2ä¹é­ç«¥é¹æµ·ä¿æ¸©æ¯Qçå¡éæä¸åå¡æ¯316ä¸éé¢å¨æ¼«å¨è¾¹æ°´æ¯ bz932åªå¤åç¬ä¸-å¤å¤çº¢316ä¸é","brokerInfo":"pos_20&tm_20250225122919&did_61111112&newproductrec_57901|base&xp15_65000|base_copy&xp15_57888|base&xp15_54972|base&xp15_54975|base&xp15_66669|prm3&xp15_55170|base&xp15_55172|base_copy&xp15_54937|base&xp15_63454|base&xp15_58258|base&d704de7f71934809b19c43316176c8f8","outOfStock":0,"cid2":"6219","cid3":"6222","cid1":"6196","liveStatus":0,"skuId":"10137521208294","onShelvesTime":"2025-02-14 09:15:42","invalidPartition":0,"imageSourceType":5,"bottomBenefits":[{"typeLabel":"2","text":"ç­åº¦é£å835%","type":"2"}],"skuImg":"https://m.360buyimg.com/mobilecms/jfs/t1/152038/16/40733/115959/67ae2da8F183f0d62/0b7b611825e1a582.jpg","blockCart":false,"isFzxp":2,"sourceType":1,"isLimitBuy":0,"daysSinceLaunch":11,"jdPrice":"87.56"}],"class":"com.jd.m.news.soa.jsf.domain.channel.feeds.ChannelFeedsResult"},"class":"com.jd.m.news.soa.jsf.domain.channel.tab.ChannelTabAndFeedsResult","touchStoneInfo":{"expResult":{"goNewAlgoAndAd":"test","sceneImage":"base","showCart":"base","expiredTest":"base","showNegative":"test","tabBi":"base","hookProduct":"base"},"expBuriedStrList":["tsabtest|base64|TmV3UHJvZHVjdF82Mjk5OHx0ZXN0|tsabtest","tsabtest|base64|TmV3UHJvZHVjdF81MTMyOHxiYXNl|tsabtest","tsabtest|base64|TmV3UHJvZHVjdF82MzE0OXxiYXNl|tsabtest","tsabtest|base64|TmV3UHJvZHVjdF82ODM4MXxiYXNlOkFQUEhvbWVOZXdfNjY4NTR8RW1wdHk6QVBQSG9tZU5ld182Njg0MnxFbXB0eTpBUFBIb21lTmV3XzY2ODMwfEVtcHR5|tsabtest","tsabtest|base64|TmV3UHJvZHVjdF81OTM5OHxiYXNl|tsabtest","tsabtest|base64|TmV3UHJvZHVjdF8zNDA5OXxiYXNl|tsabtest"]},"floorCode":"tabAndFeeds"},"channel":"pc","floorNum":"1_2","godIds":[],"ssr":1,"styleId":"00038724","bizId":"4","enc":"2B3D6BF20793508CE15041816500AB05C01CFD74F44C39FA1D3F3B2AF45885148E51643F95286E2B8F7037C37BDDBE19","boardParams":{"coverBackgroundType":"Black","countDownSwitch":"2","h5Version":"13.2.10","threeDEffectTimeout":"3500","cardAnimationSwitch":"1","maxMapSize":8},"id":206555263,"moduleId":206555263,"timestamp":"1737872376557","htmlSourceUrl":"babelview/00038725/v20241223181256/index.repl.html","hasBindMaterial":0,"onlineVersionId":"v20241223181256","htmlSource":"&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width,initial-scale=1,user-scalable=no,maximum-scale=1,viewport-fit=cover&quot;/&gt;&lt;link href=&quot;//storage11.360buyimg.com/ifloors/00038724/static/css/main.4dcbd3d0.css&quot; rel=&quot;stylesheet&quot;&gt;&lt;/head&gt;&lt;body&gt;&lt;div class=&quot;ipaas-floor-app&quot;&gt;&lt;/div&gt;&lt;script src=&quot;//storage11.360buyimg.com/ifloors/00038724/static/js/main.5034817c.js&quot;&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;","materialQryType":"sync","cmpIds":[],"ofn":"4","clientAssets":"{\"files\":[{\"type\":\"link\",\"src\":\"//storage11.360buyimg.com/ifloors/00038724/static/css/main.4dcbd3d0.css\",\"name\":\"main\"},{\"type\":\"script\",\"src\":\"//storage11.360buyimg.com/ifloors/00038724/static/js/main.5034817c.js\",\"name\":\"main\"},{\"type\":\"link\",\"src\":\"//storage11.360buyimg.com/ifloors/00038724/static/css/component.4dcbd3d0.css\",\"name\":\"component\"},{\"type\":\"script\",\"src\":\"//storage11.360buyimg.com/ifloors/00038724/static/js/component.1a637477.js\",\"name\":\"component\"}],\"ifloorId\":\"00038724\",\"jsonpFunctionName\":\"ssrIjsonp\"}","advIds":[],"h5FloorFrameState":0}],"item":"0","backgroundColor":"","paginationParams":[],"pageId":"5336984","visReState":{"matGrpN":0,"matReN":0},"returnMsg":"success","hasPerData":"0","hasIdentification":"0","encodeActivityId":"3ejBfFZtaQMQ4RYpBxHekmm9vyrs","useDiscovery":"","resultTag":"ok","pageSrvData":"{\"request_id\":[\"10188796564-123054-1740457762023\"]}","appWidth":1296},"activityData":{"pageId":"5336984","pageUrl":"https://pro.jd.com/mall/active/3ejBfFZtaQMQ4RYpBxHekmm9vyrs/index.html","title":"äº¬ä¸å°é­æ¹","activityId":"01697910","encodeActivityId":"3ejBfFZtaQMQ4RYpBxHekmm9vyrs","inkTarget":"_blank","item":"0","cpChannelKey":"H5node","asyncInterfaceBack":{"templatePlatform":"3"},"rsHeadersBlackList":[]},"app":{"activityBu":"mall","activityId":"3ejBfFZtaQMQ4RYpBxHekmm9vyrs","isEnvBeta":false,"sid":"","supportsCSSVars":true,"universalSiteName":"mall"}};
+        }());
+    </script>
+    <div id="J-global-toolbar"></div>
+    <script src="//misc.360buyimg.com/jdf/1.0.0/unit/base/5.0.0/base.js"></script>
+    <script type="text/javascript">
+        (function () {
+            window.require = seajs && seajs.use;
+        })();
+    </script>
+            <!--service start-->
+<div id="service-2017">
+	<div class="w">
+		<ol class="slogen">
+			<li class="item fore1">
+				<i>å¤</i>åç±»é½å¨ï¼è½»æ¾è´­ç©
+			</li>
+			<li class="item fore2">
+				<i>å¿«</i>å¤ä»ç´åï¼æééé
+			</li>
+			<li class="item fore3">
+				<i>å¥½</i>æ­£åè¡è´§ï¼ç²¾è´æå¡
+			</li>
+			<li class="item fore4">
+				<i>ç</i>å¤©å¤©ä½ä»·ï¼çéæ å¿§
+			</li>
+		</ol>
+	</div>
+	<div class="jd-help">
+		<div class="w">
+			<div class="wrap">
+				<dl class="fore1">
+					<dt>è´­ç©æå</dt>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-29.html">è´­ç©æµç¨</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-151.html">ä¼åä»ç»</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-297.html">çæ´»æè¡/å¢è´­</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue.html">å¸¸è§é®é¢</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-136.html">å¤§å®¶çµ</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/index.html">èç³»å®¢æ</a></dd>
+				</dl>
+				<dl class="fore2">
+					<dt>ééæ¹å¼</dt>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-81-100.html">ä¸é¨èªæ</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-81.html">211éæ¶è¾¾</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/103-983.html">ééæå¡æ¥è¯¢</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/109-188.html">ééè´¹æ¶åæ å</a></dd>
+					<dd><a target="_blank" href="//help.joybuy.com/help/question-list-201.html">æµ·å¤éé</a></dd>
+				</dl>
+				<dl class="fore3">
+					<dt>æ¯ä»æ¹å¼</dt>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-172.html">è´§å°ä»æ¬¾</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-173.html">å¨çº¿æ¯ä»</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-176.html">åæä»æ¬¾</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-174.html">é®å±æ±æ¬¾</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-175.html">å¬å¸è½¬è´¦</a></dd>
+				</dl>
+				<dl class="fore4">
+					<dt>å®åæå¡</dt>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/321-981.html">å®åæ¿ç­</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-132.html">ä»·æ ¼ä¿æ¤</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/130-978.html">éæ¬¾è¯´æ</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//myjd.jd.com/repair/repairs.action">è¿ä¿®/éæ¢è´§</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-50.html">åæ¶è®¢å</a></dd>
+				</dl>
+				<dl class="fore5">
+					<dt>ç¹è²æå¡</dt>
+					<dd><a target="_blank" href="//help.jd.com/user/issue/list-133.html">å¤ºå®å²</a></dd>
+					<dd><a target="_blank" href="//help.jd.com/user/issue/list-134.html">DIYè£æº</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//fuwu.jd.com/">å»¶ä¿æå¡</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//o.jd.com/market/index.action">äº¬ä¸Eå¡</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//mobile.jd.com/">äº¬ä¸éä¿¡</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//s.jd.com/">äº¬ä¸JD+</a></dd>
+				</dl>
+				<span class="clr"></span>
+			</div>
+		</div>
+	</div>
+</div>
+<!--service end-->
+
+<!--footer start-->
+<div id="footer-2017" Includefile_Footer_id="1002">
+  <div class="w">
+    <div class="copyright_links">
+      <p>
+        <a href="//about.jd.com" target="_blank">å³äºæä»¬</a
+        ><span class="copyright_split">|</span>
+        <a href="//about.jd.com/contact/" target="_blank">èç³»æä»¬</a
+        ><span class="copyright_split">|</span>
+        <a href="//help.jd.com/user/custom.html" target="_blank">èç³»å®¢æ</a
+        ><span class="copyright_split">|</span>
+        <a href="//lai.jd.com" target="_blank">åä½æå</a
+        ><span class="copyright_split">|</span>
+        <a href="//helpcenter.jd.com/venderportal/index.html" target="_blank"
+          >åå®¶å¸®å©</a
+        ><span class="copyright_split">|</span>
+        <a href="//jzt.jd.com" target="_blank">è¥éä¸­å¿</a
+        ><span class="copyright_split">|</span>
+        <a href="//app.jd.com/" target="_blank">ææºäº¬ä¸</a
+        ><span class="copyright_split">|</span>
+        <a href="//club.jd.com/links.aspx" target="_blank">åæé¾æ¥</a
+        ><span class="copyright_split">|</span>
+        <a href="//union.jd.com/index" target="_blank">éå®èç</a
+        ><span class="copyright_split">|</span>
+        <a
+          href="//pro.jd.com/mall/active/3WA2zN8wkwc9fL9TxAJXHh5Nj79u/index.html"
+          target="_blank"
+          >äº¬ä¸ç¤¾åº</a
+        ><span class="copyright_split">|</span>
+        <a
+          href="//pro.jd.com/mall/active/3TF25tMdrnURET8Ez1cW9hzfg3Jt/index.html"
+          target="_blank"
+          >é£é©çæµ</a
+        ><span class="copyright_split">|</span>
+        <a
+          href="//pro.jd.com/mall/active/2udA8Qxf3A54dVVseY5CdUMSgQPs/index.html"
+          target="_blank"
+          >è´¨éå¬å</a
+        ><span class="copyright_split">|</span>
+        <a href="//about.jd.com/privacy/" target="_blank">éç§æ¿ç­</a
+        ><span class="copyright_split">|</span>
+        <a href="//gongyi.jd.com" target="_blank">äº¬ä¸å¬ç</a
+        ><span class="copyright_split">|</span>
+        <a href="//corporate.jd.com/" target="_blank">Media & IR</a>
+      </p>
+    </div>
+    <div class="copyright_info">
+      <p>
+        <a
+          href="https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000088"
+          target="_blank"
+          >äº¬å¬ç½å®å¤ 11000002000088å·</a
+        ><span class="copyright_split">|</span
+        ><span
+          ><a href="http://beian.miit.gov.cn" target="_blank"
+            >äº¬ICPå¤11041704å·</a
+          ></span
+        ><span class="copyright_split">|</span>
+        <a
+          href="//h5.m.jd.com/pc/dev/3T3No18XR8k8rpLGLGhgbJ1StAFq/index.html"
+          target="_blank"
+          rel="noopener noreferrer"
+          >ICP</a
+        ><span class="copyright_split">|</span>
+        <a
+          href="//pro.jd.com/mall/active/2zRnBcZVhdAcWBMvBnoRcUdi3HBt/index.html"
+          target="_blank"
+          >è¯åå»çå¨æ¢°ç½ç»ä¿¡æ¯æå¡å¤æ¡</a
+        ><span class="copyright_split">|</span
+        ><a
+          href="//pro.jd.com/mall/active/MZXpsnbHS3omkFAk4R4jYwXTb4c/index.html"
+          target="_blank"
+          >èªè¥å»çå¨æ¢°ç»è¥èµè´¨</a
+        ><span class="copyright_split">|</span
+        ><a
+          href="//pro.jd.com/mall/active/2pwvdCM94gBdWruSu82PkqzKyi3U/index.html"
+          target="_blank"
+          >è¯åç½ç»äº¤æç¬¬ä¸æ¹å¹³å°å¤æ¡å­è¯</a
+        ><span class="copyright_split">|</span
+        ><span>æ°åºåäº¬é¶ å­ç¬¬å¤§120007å·</span>
+      </p>
+      <p>
+        <span>äºèç½åºçè®¸å¯è¯ç¼å·æ°åºç½è¯(äº¬)å­150å·</span
+        ><span class="copyright_split">|</span>
+        <a
+          href="//pro.jd.com/mall/active/3bVDLXHdwVmdQksGF8TtS7ocq1NY/index.html"
+          target="_blank"
+          >åºçç©ç»è¥è®¸å¯è¯</a
+        ><span class="copyright_split">|</span
+        ><span>è¿æ³åä¸è¯ä¿¡æ¯ä¸¾æ¥çµè¯ï¼4006561155</span>
+      </p>
+      <p>
+        <span class="copyright_text"
+          >Copyright &copy; 2004 -
+          <em id="copyright_year">2019</em> äº¬ä¸JINGDONG çæææ</span
+        ><span class="copyright_split">|</span
+        ><span>æ¶è´¹èç»´æç­çº¿ï¼4006067733</span>
+        <a
+          href="//pro.jd.com/mall/active/38PitHBfR7ZopNHRSHnuuWR5AMDL/index.html"
+          target="_blank"
+          class="copyright_license"
+          >ç»è¥è¯ç§</a
+        >
+        <span class="copyright_split">|</span>
+        <a
+          href="//pro.jd.com/mall/active/36mqawDTyFwQpodmiJGf6bvPA8hs/index.html"
+          target="_blank"
+          class="mod_business_license"
+          >å»çå¨æ¢°ç¬¬ä¸æ¹å¹³å°å¤æ¡å­è¯ï¼äº¬ï¼ç½æ¢°å¹³å°å¤å­ï¼2023ï¼ç¬¬00013å·</a
+        >
+        <span class="copyright_split">|</span>
+        <a
+          href="//pro.jd.com/mall/active/5oanqbW74QJ5NLaKPx5QaWpFonw/index.html"
+          target="_blank"
+          class="mod_business_license"
+          >è¥ä¸æ§ç§</a
+        >
+        <span class="copyright_split">|</span>
+        <a
+          href="//h5.m.jd.com/pc/dev/3YxBvN6m5TsRyVCvDSeEh7awmLB4/index.html"
+          target="_blank"
+          rel="noopener noreferrer"
+          >å¢å¼çµä¿¡ä¸å¡ç»è¥è®¸å¯è¯</a
+        >
+      </p>
+      <p>
+        <span>äº¬ä¸æä¸ç½ç«ï¼</span>
+        <a href="https://www.jdpay.com/" target="_blank">äº¬ä¸é±å</a
+        ><span class="copyright_split">|</span>
+        <a href="https://www.jdcloud.com" target="_blank">äº¬ä¸äº</a>
+      </p>
+    </div>
+    <p class="copyright_auth">
+      <script type="text/JavaScript">
+        function CNNIC_change(eleId){var str= document.getElementById(eleId).href;var str1 =str.substring(0,(str.length-6));str1+=CNNIC_RndNum(6);
+        				document.getElementById(eleId).href=str1;}function CNNIC_RndNum(k){var rnd=""; for (var i=0;i
+        				< k;i++) rnd+=Math.floor(Math.random()*10); return rnd;};(function(){var d=new Date;document.getElementById(
+        				 "copyright_year").innerHTML=d.getFullYear()})();
+      </script>
+      <a
+        id="urlknet"
+        class="copyright_auth_ico copyright_auth_ico_2"
+        onclick="CNNIC_change('urlknet')"
+        oncontextmenu="return false;"
+        name="CNNIC_seal"
+        href="https://ss.knet.cn/verifyseal.dll?sn=2008070300100000031&ct=df&pa=294005"
+        target="_blank"
+        >å¯ä¿¡ç½ç«ä¿¡ç¨è¯ä¼°</a
+      >
+      <a
+        class="copyright_auth_ico copyright_auth_ico_3"
+        href="https://cyberpolice.mps.gov.cn/"
+        target="_blank"
+        >ç½ç»è­¦å¯æéä½ </a
+      >
+      <a
+        class="copyright_auth_ico copyright_auth_ico_4"
+        href="https://search.szfw.org/cert/l/CX20120111001803001836"
+        target="_blank"
+        >è¯ä¿¡ç½ç«</a
+      >
+      <a
+        class="copyright_auth_ico copyright_auth_ico_5"
+        href="https://www.12377.cn"
+        target="_blank"
+        >ç½ä¸æå®³ä¿¡æ¯ä¸¾æ¥ä¸åº</a
+      >
+      <a
+        class="copyright_auth_ico copyright_auth_ico_6"
+        href="https://www.12377.cn/node_548446.htm"
+        target="_blank"
+        >ç½ç»ä¸¾æ¥APPä¸è½½</a
+      >
+      <a
+        class="copyright_auth_ico copyright_auth_ico_7"
+        href="https://ggfw.cnipa.gov.cn/PatentCMS_Center?fromsite=www.jd.com"
+        target="_blank"
+        rel="noopener noreferrer"
+        style="
+          background-image: url('//img12.360buyimg.com/imagetools/jfs/t1/89057/27/24131/19491/621c3949E053e39b3/9e2e3ec54268ac9b.png');
+          overflow: hidden;
+          display: inline-block;
+          width: 103px;
+          height: 32px;
+          line-height: 1000px;
+          background-size: cover;
+        "
+        >å½å®¶ç¥è¯äº§æå¬å±æå¡ç½</a
+      >
+    </p>
+  </div>
+</div>
+<!--footer end-->
+
+<script type="text/javascript">
+    window.pageConfig = {
+         compatible: true,
+     };
+</script>
+<script src="//misc.360buyimg.com/jdf/1.0.0/unit/base/5.0.0/base.js"></script>
+<script type="text/javascript">
+    (function() {
+         window.require = seajs && seajs.use;
+     })();
+    seajs.use(['//bhome.jd.com/common/static/js/globalInit.js'], function (globalInit) {
+        globalInit();
+    });
+    seajs.use('//misc.360buyimg.com/jdf/1.0.0/unit/hotwords/5.0.0/hotwords', function (hotwords) {});
+ </script>
+
+
+    <script>
+        seajs.use([window.globalInitUrl || '//storage.360buyimg.com/babelpc/static/header/globalInit.js'], function (globalInit) {
+            globalInit();
+            seajs.use([
+                '//storage.360buyimg.com/babel/00114433/239531/production/dev/index-v1.0.2.js'
+            ], function () {
+                pageConfig.toolbar = new Toolbar.default({
+                    pType: 'babel',
+                    bars: {
+                        coupon: {
+                            enabled: false,
+                        },
+                        jimi: {
+                            iframe: '//jimi.jd.com/index.action?source=jdhome',
+                            target: '//chat.jd.com/chat/index.action?venderId=1&entry=jd_web_jimi_babelEmbed'
+                        },
+                        history: {
+                            enabled: false,
+                        }
+                    },
+                    links: {
+                        feedback: {
+                            enabled: false,
+                            href: '//surveys.jd.com/index.php?r=survey/index/sid/323814/newtest/Y/lang/zh-Hans'
+                        },
+                        top: {
+                            anchor: '#'
+                        }
+                    },
+                    ad: {
+                        enabled: false,
+                    },
+                });
+            })
+        });
+    </script>
+        <script src=//storage.360buyimg.com/babelpc/static/js/vendors.d0863573.chunk.js></script>
+<script src=//storage.360buyimg.com/babelpc/static/js/templates.261deac8.chunk.js></script>
+<script src=//storage.360buyimg.com/babelpc/static/js/mall.94921eba.js></script>
+<script src=//storage.360buyimg.com/babelpc/static/js/security_global.d4763ad7.js></script>
+<script>window.__generate_time__ = 1740457762619</script></body>
+
+</html>
